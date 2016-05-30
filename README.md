@@ -1,2 +1,2 @@
-# JCanvas
+# jCanvas
 Vẽ Canvas
