@@ -201,10 +201,5 @@ CanvasRenderingContext2D.prototype.drawArc = function(x, y, r, opt, trf) {
 };
 
 // Đường thẳng
-CanvasRenderingContext2D.prototype.line = function() {
-  var
-  arg = arguments,
-  l = arg.length,
-  opt = arg[l - 2],
-  trf = arg[l - 1];
+CanvasRenderingContext2D.prototype.drawLine = function(line, opt, trf) {
 };
